@@ -1,6 +1,6 @@
 {
   "name": "@ldapjs/codes",
-  "version": "1.0.0",
+  "version": "1.0.0-rc.1",
   "description": "LDAP message and error codes",
   "main": "index.js",
   "scripts": {
